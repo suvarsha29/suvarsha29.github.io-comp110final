@@ -18,8 +18,4 @@ I noticed based on the bar graph that the most of the students rated pacing to b
 The data and final graphs illustrate that the pacing of the class alone does not impact student outcomes, although it could play a minor role there are other factors that could play a role. 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-
-## This is a small header
-
-This is basic paragraph text.
+<img src="/suvarsha29.github.io-comp110final/static/imgs/logo.png" alt="Image of Comp110 rainbow logo." width="500"/>
